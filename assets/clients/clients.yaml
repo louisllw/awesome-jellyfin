@@ -387,11 +387,14 @@ clients:
   - name: "Jellyflow"
     targets: [Browser]
     oss: https://github.com/louisllw/Jellyflow
+    website: https://jellyflow.louisllw.dev
     official: false
     beta: true
     price:
       free: true
     downloads:
+      - type: demo
+        url: https://jellyflow.louisllw.dev
       - type: github
         owner: louisllw
         repo: Jellyflow
